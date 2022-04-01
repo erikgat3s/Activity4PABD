@@ -1,0 +1,10 @@
+C:\Users\ERIK\source\repos\Activity4PABD\Activity4PABD\bin\Debug\Activity4PABD.exe.config
+C:\Users\ERIK\source\repos\Activity4PABD\Activity4PABD\bin\Debug\Activity4PABD.exe
+C:\Users\ERIK\source\repos\Activity4PABD\Activity4PABD\bin\Debug\Activity4PABD.pdb
+C:\Users\ERIK\source\repos\Activity4PABD\Activity4PABD\obj\Debug\Activity4PABD.csprojAssemblyReference.cache
+C:\Users\ERIK\source\repos\Activity4PABD\Activity4PABD\obj\Debug\Activity4PABD.Form1.resources
+C:\Users\ERIK\source\repos\Activity4PABD\Activity4PABD\obj\Debug\Activity4PABD.Properties.Resources.resources
+C:\Users\ERIK\source\repos\Activity4PABD\Activity4PABD\obj\Debug\Activity4PABD.csproj.GenerateResource.cache
+C:\Users\ERIK\source\repos\Activity4PABD\Activity4PABD\obj\Debug\Activity4PABD.csproj.CoreCompileInputs.cache
+C:\Users\ERIK\source\repos\Activity4PABD\Activity4PABD\obj\Debug\Activity4PABD.exe
+C:\Users\ERIK\source\repos\Activity4PABD\Activity4PABD\obj\Debug\Activity4PABD.pdb
